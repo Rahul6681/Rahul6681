@@ -1,131 +1,124 @@
 <div align="center">
 
-<!-- Animated 3D-style wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Hi%20There,%20I'm%20Rahul%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%7C%20C%2B%2B%20%26%20Web%20Dev%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<!-- Premium gradient banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:5b21b6,100:06b6d4&height=210&section=header&text=Rahul%20Pandit&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MCA%20Student%20%E2%80%A2%20C%2B%2B%20%26%20Full-Stack%20Web%20Developer&descAlignY=55&descSize=17&descColor=e2e8f0" width="100%"/>
 
 <!-- Typing animation -->
-<a href="https://github.com/Rahul6681">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+with+the+MERN+Stack+%F0%9F%9A%80;Solving+DSA+in+C%2B%2B+%E2%9A%A1;Learning%2C+Building%2C+Sharing+%F0%9F%92%BB" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Crafting+full-stack+apps+with+the+MERN+stack;Sharpening+DSA+skills+in+C%2B%2B;Open+to+internships+%26+collaborations" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rahul6681&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Rahul6681?label=Followers&style=for-the-badge&color=00c9ff" alt="followers"/>
+<!-- Status badges -->
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Based%20in-India-06b6d4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Rahul6681&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-<!-- ABOUT -->
-### 🚀 About Me
+<!-- ============ ABOUT ============ -->
+## 👨‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e6dd991a-6ba9-464b-97c8-844e77bc0f6e.gif" alt="coding gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/e6dd991a-6ba9-464b-97c8-844e77bc0f6e.gif"/>
 
-- 🎓 I'm an **MCA student**, currently deep in the world of **C++** and **Web Development**
-- 💻 I love building full-stack apps with the **MERN stack**
-- 🧠 Sharpening my problem-solving skills with **DSA & LeetCode** in C++
-- 🌱 Currently building: an **AI Receptionist chatbot** and a **coding platform**
-- 📫 Always open to collaborating on interesting projects — reach out anytime!
-- ⚡ Fun fact: I'd rather debug for 3 hours than read documentation for 5 minutes 😄
+```yaml
+name: Rahul Pandit
+role: MCA Student
+focus: [C++, DSA, MERN Stack, Full-Stack Development]
+currently_building: AI Receptionist Chatbot • Online Coding Platform
+philosophy: "Learn in public, build in the open, ship consistently."
+```
+
+- 🎓 Pursuing my **MCA**, sharpening core computer science fundamentals along the way
+- ⚙️ Comfortable across the stack — **React, Node.js, Express, MongoDB, MySQL, PHP**
+- 🧩 Practicing **Data Structures & Algorithms** in C++ on a daily basis
+- 🤝 Always up for collaborating on meaningful, real-world projects
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,php,python,html,css,git,github,vscode,figma&perline=8" alt="tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,php,html,css,git,github,vscode,figma,postman&perline=8"/>
 
 </div>
 
+---
+
+## 🗺️ Contribution Heatmap
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/7c3aed/Rahul6681" alt="Rahul's GitHub contribution heatmap" width="95%"/>
+
+</div>
+
+## 🧊 3D Isometric Contribution Calendar
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/Rahul6681?template=classic&base=&config.timezone=Asia%2FKolkata&plugin_isocalendar=1&plugin_isocalendar_duration=full-year" alt="3D isometric contribution calendar" width="100%"/>
+
+</div>
+
+<div align="center"><sub>⚙️ Rendered live via the shared <code>metrics.lecoq.io</code> instance — for guaranteed uptime, move this to a GitHub Action (setup notes below).</sub></div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rahul6681&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=06b6d4&text_color=c9d1d9&ring_color=7c3aed"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul6681&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9"/>
+
+<img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul6681&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul6681&hide_border=true&bg_color=0d1117&color=06b6d4&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rahul6681&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Rahul6681/Rahul6681/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Rahul6681/MERN-onlineCodingPlatform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul6681&repo=MERN-onlineCodingPlatform&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=06b6d4"/></a>
+<a href="https://github.com/Rahul6681/AI-Receptionist"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul6681&repo=AI-Receptionist&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=06b6d4"/></a>
 <br/>
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://github.com/Rahul6681/Leetcode_Solutions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul6681&repo=Leetcode_Solutions&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=06b6d4"/></a>
+<a href="https://github.com/Rahul6681/school-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul6681&repo=school-management-system&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=06b6d4"/></a>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rahul6681&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=00c9ff&ring_color=00c9ff" alt="Rahul's GitHub stats"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul6681&theme=tokyonight&hide_border=true&background=0d1117&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff" alt="Rahul's streak stats"/>
-
-<img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul6681&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul6681&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff" alt="activity graph" width="95%"/>
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul6681&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies"/>
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Rahul6681/Rahul6681/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
-
-> ⚙️ To activate this snake animation, add the **GitHub Actions snake workflow** to this same `Rahul6681/Rahul6681` repo (see setup note at the bottom).
-
----
-
-### 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Rahul6681/MERN-onlineCodingPlatform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul6681&repo=MERN-onlineCodingPlatform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff"/>
-</a>
-<a href="https://github.com/Rahul6681/AI-Receptionist">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul6681&repo=AI-Receptionist&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff"/>
-</a>
-<br/>
-<a href="https://github.com/Rahul6681/Leetcode_Solutions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul6681&repo=Leetcode_Solutions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff"/>
-</a>
-<a href="https://github.com/Rahul6681/school-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul6681&repo=school-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff"/>
-</a>
-
-</div>
-
----
-
-### 🤝 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/Rahul6681"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<!-- Add your real links below and remove the # -->
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -134,6 +127,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,40:5b21b6,100:0d1117&height=110&section=footer" width="100%"/>
 
 </div>
